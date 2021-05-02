@@ -37,7 +37,6 @@ Coming Soon 😊
 
 ---
 ## Project Planning
-Coming Soon 😊
 
 ### Wireframes
 Coming Soon 😊
