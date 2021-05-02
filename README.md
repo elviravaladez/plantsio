@@ -57,7 +57,7 @@ Check out my Trello Board [HERE](https://trello.com/b/t2dMA95o/plantsio).
 
 ## Authors
 
-####[Elvira Valadez](https://github.com/elviravaladez)
+#### [Elvira Valadez](https://github.com/elviravaladez)
 
 ---
 
